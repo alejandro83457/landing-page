@@ -182,3 +182,11 @@ body {
     color: white;
     font-size: 20px;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 3em 0;
+    font-size: 20px;
+}
